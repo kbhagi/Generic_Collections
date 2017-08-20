@@ -1,0 +1,8 @@
+C:\Projects\Generic_Collections\Generic_Collections\bin\Debug\Generic_Collections.exe.config
+C:\Projects\Generic_Collections\Generic_Collections\bin\Debug\Generic_Collections.exe
+C:\Projects\Generic_Collections\Generic_Collections\bin\Debug\Generic_Collections.pdb
+C:\Projects\Generic_Collections\Generic_Collections\obj\Debug\Generic_Collections.exe
+C:\Projects\Generic_Collections\Generic_Collections\obj\Debug\Generic_Collections.pdb
+C:\Projects\Generic_Collections\Generic_Collections\obj\Debug\Generic_Collections.csprojResolveAssemblyReference.cache
+C:\Projects\Generic_Collections\Generic_Collections\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\Generic_Collections\Generic_Collections\bin\Debug\System.Collections.Immutable.xml
